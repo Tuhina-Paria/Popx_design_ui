@@ -45,11 +45,11 @@ function Profile() {
         <p className="text-[14px]  text-gray-500 leading-3  ">
          Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam
 
-        <div className="-mx-6 border-t border-dashed border-gray-300 mt-auto mb-6"></div>
+        <div className="-mx-6 border-t border-dashed border-gray-400 mt-auto mb-6"></div>
 
         </p>
 
-       <div className="-mx-6 border-t border-dashed border-gray-300 mt-auto mb-6"></div>
+       <div className="-mx-6 border-t border-dashed border-gray-400 mt-auto mb-6"></div>
       </div>
     </div>
   );
