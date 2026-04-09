@@ -48,8 +48,8 @@ npm run build
 
 The production-ready files will be generated in the dist/ folder.
 
-🌐 Hosted Link
-The project is hosted on Vercel:<popx-design-ui-3rs7.vercel.app>
+## 🌐 Hosted Link
+[View Live Project](https://popx-design-ui-3rs7.vercel.app)
 
 ✅ Function
 The design is implemented pixel-perfect.
