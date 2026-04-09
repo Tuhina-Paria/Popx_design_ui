@@ -1,6 +1,6 @@
-React JS Intern/Fresher Qualifier Task
 
-This repository contains the implementation of a React JS front-end project based on a provided Adobe XD design. This project was developed as part of a qualifier task for an internship/fresher-level interview.
+
+This repository contains the implementation of a React JS front-end project based on a provided Adobe XD design. This project was developed as part of a qualifier task for an internship.
 
 📌 Task Overview
 Objective: Convert the given Adobe XD design into a fully functional React JS web application.
@@ -49,9 +49,9 @@ npm run build
 The production-ready files will be generated in the dist/ folder.
 
 🌐 Hosted Link
-The project is hosted on Vercel: popx-design-ui.vercel.app
+The project is hosted on Vercel:<popx-design-ui-3rs7.vercel.app>
 
-✅ Notes
+✅ Function
 The design is implemented pixel-perfect.
 Navigation between pages is seamless and functional.
 The project uses modern React practices with Tailwind CSS for styling.
